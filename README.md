@@ -1,2 +1,2 @@
 # magento24
-Laradock crear magento2.4
+Laradock clear magento2.4
